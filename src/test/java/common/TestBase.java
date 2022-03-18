@@ -39,7 +39,7 @@ public class TestBase {
     public static org.openqa.selenium.WebDriver driver;
     public static WebDriver webdriver = new WebDriver();
     public static Date date = new Date();
-    public static SimpleDateFormat formatter = new SimpleDateFormat("dd-MM-yyyy HH-mm-ss");
+    public static SimpleDateFormat formatter = new SimpleDateFormat("dd-MM-yyyy");
     public static String dt = formatter.format(date);
     public static FileReader fileReader;
     public static ExtentSparkReporter spark;
@@ -64,8 +64,10 @@ public class TestBase {
         extent.flush();
     }
 
+
+    ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     @AfterMethod
-    public void tearDown(ITestResult result) {
+    public void tearDown(ITestResult result) throws Exception {
 
         if (result.getStatus() == ITestResult.FAILURE) {
             test.fail(result.getName() + " test case is failed. " + "<span class='badge badge-danger'> Fail </span>" + result.getThrowable());
@@ -149,4 +151,6 @@ public class TestBase {
         }
     }
 
+    public void get(String link) {
+    }
 }

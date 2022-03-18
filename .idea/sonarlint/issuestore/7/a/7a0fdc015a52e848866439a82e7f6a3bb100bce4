@@ -1,0 +1,58 @@
+
+P
+java:S1118":Add a private constructor to hide the implicit public one.(›“øê
+l
+java:S1104"QMake table a static final constant or non-public and provide accessors if needed.(Õíí–şÿÿÿÿ
+r
+java:S1104"]Make shoppinCartButton a static final constant or non-public and provide accessors if needed.(©¿ÌX
+u
+java:S1104	"ZMake removeItemBttn a static final constant or non-public and provide accessors if needed.(àôóêüÿÿÿÿ
+p
+java:S1104
+"UMake cartLabel a static final constant or non-public and provide accessors if needed.(ä”á½øÿÿÿÿ
+m
+java:S1104"RMake noData a static final constant or non-public and provide accessors if needed.(ŒÔ‚úÿÿÿÿ
+l
+java:S1104"QMake items a static final constant or non-public and provide accessors if needed.(É¨šŸıÿÿÿÿ
+n
+java:S1104"XMake goToCartBttn a static final constant or non-public and provide accessors if needed.(¿ª´
+{
+java:S1104"^Make shoppingCartTittle a static final constant or non-public and provide accessors if needed.(æÂó8³¥»ù/
+ƒ
+java:S1104"aMake updateShoppingCartBtn a static final constant or non-public and provide accessors if needed.(ÈÒ£™ıÿÿÿÿ8Ëøê»ù/
+
+java:S1104"_Make continueShoppingBtn a static final constant or non-public and provide accessors if needed.(¯ë˜£úÿÿÿÿ8ô×ë»ù/
+
+java:S1104"_Make estimateShippingBtn a static final constant or non-public and provide accessors if needed.(Ñë¦îıÿÿÿÿ8Ãºì»ù/
+u
+java:S1104"XMake itemSubtotal a static final constant or non-public and provide accessors if needed.(şÑ…™8°½¼¼ù/
+x
+java:S1104"VMake orderTotal a static final constant or non-public and provide accessors if needed.(åàÍéıÿÿÿÿ8Åö¿ù/
+F
+java:S1444"+Make this "public static table" field final(Õíí–şÿÿÿÿ
+L
+java:S1444"7Make this "public static shoppinCartButton" field final(©¿ÌX
+O
+java:S1444	"4Make this "public static removeItemBttn" field final(àôóêüÿÿÿÿ
+J
+java:S1444
+"/Make this "public static cartLabel" field final(ä”á½øÿÿÿÿ
+G
+java:S1444",Make this "public static noData" field final(ŒÔ‚úÿÿÿÿ
+F
+java:S1444"+Make this "public static items" field final(É¨šŸıÿÿÿÿ
+H
+java:S1444"2Make this "public static goToCartBttn" field final(¿ª´
+U
+java:S1444"8Make this "public static shoppingCartTittle" field final(æÂó8Ó¥»ù/
+]
+java:S1444";Make this "public static updateShoppingCartBtn" field final(ÈÒ£™ıÿÿÿÿ8Ûøê»ù/
+[
+java:S1444"9Make this "public static continueShoppingBtn" field final(¯ë˜£úÿÿÿÿ8„Øë»ù/
+[
+java:S1444"9Make this "public static estimateShippingBtn" field final(Ñë¦îıÿÿÿÿ8Ãºì»ù/
+O
+java:S1444"2Make this "public static itemSubtotal" field final(şÑ…™8°½¼¼ù/
+R
+java:S1444"0Make this "public static orderTotal" field final(åàÍéıÿÿÿÿ8ŸÅö¿ù/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(×¨à‘øÿÿÿÿ

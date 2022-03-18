@@ -1,0 +1,31 @@
+
+P
+java:S1118":Add a private constructor to hide the implicit public one.(éÌïà
+g
+java:S1104"QMake login a static final constant or non-public and provide accessors if needed.(¬âŞÒ
+m
+java:S1104"RMake logout a static final constant or non-public and provide accessors if needed.(©å²¹şÿÿÿÿ
+j
+java:S1104	"TMake register a static final constant or non-public and provide accessors if needed.(ÃŒö½
+h
+java:S1104
+"RMake tittle a static final constant or non-public and provide accessors if needed.(æ‘¿ç
+q
+java:S1104"[Make computeHoverBtn a static final constant or non-public and provide accessors if needed.(‚ãà¶
+p
+java:S1104"UMake notebooks a static final constant or non-public and provide accessors if needed.(¯ÓÜäüÿÿÿÿ
+A
+java:S1444"+Make this "public static login" field final(¬âŞÒ
+G
+java:S1444",Make this "public static logout" field final(©å²¹şÿÿÿÿ
+D
+java:S1444	".Make this "public static register" field final(ÃŒö½
+B
+java:S1444
+",Make this "public static tittle" field final(æ‘¿ç
+K
+java:S1444"5Make this "public static computeHoverBtn" field final(‚ãà¶
+J
+java:S1444"/Make this "public static notebooks" field final(¯ÓÜäüÿÿÿÿ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(éÌïà
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(×¨à‘øÿÿÿÿ

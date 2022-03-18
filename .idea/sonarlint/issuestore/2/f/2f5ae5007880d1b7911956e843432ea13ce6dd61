@@ -1,0 +1,64 @@
+
+v
+java:S3008"`Rename this field "attributes_check_16GB" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î¤Åà
+U
+java:S1118":Add a private constructor to hide the implicit public one.(Õö­Äùÿÿÿÿ
+w
+java:S1104"aMake attributes_check_16GB a static final constant or non-public and provide accessors if needed.(Î¤Åà
+s
+java:S1104"]Make displayedElements a static final constant or non-public and provide accessors if needed.(ì—Ï·
+m
+java:S1104	"RMake tittle a static final constant or non-public and provide accessors if needed.(®â•úûÿÿÿÿ
+i
+java:S1104
+"SMake display a static final constant or non-public and provide accessors if needed.(÷Å¨‡
+n
+java:S1104"XMake wishListBtn2 a static final constant or non-public and provide accessors if needed.(äÒ±¢
+n
+java:S1104"XMake wishListBtn3 a static final constant or non-public and provide accessors if needed.(öƒ×Í
+t
+java:S1104"YMake addToCartBtn4 a static final constant or non-public and provide accessors if needed.(ØşÅ—ÿÿÿÿÿ
+t
+java:S1104"YMake addToCartBtn5 a static final constant or non-public and provide accessors if needed.(Úôúóøÿÿÿÿ
+o
+java:S1104"YMake addToCartBtn6 a static final constant or non-public and provide accessors if needed.(õ®¼•
+u
+java:S1104"ZMake addToCartBtnss a static final constant or non-public and provide accessors if needed.(ÉÌïĞÿÿÿÿÿ
+o
+java:S1104"YMake wishListBtnss a static final constant or non-public and provide accessors if needed.(õİú¤
+i
+java:S1104"SMake content a static final constant or non-public and provide accessors if needed.(’ş…Ê
+k
+java:S1104"UMake cartLable a static final constant or non-public and provide accessors if needed.(’«»û
+t
+java:S1104"YMake wishListLable a static final constant or non-public and provide accessors if needed.(·ñÄüÿÿÿÿ
+Q
+java:S1444";Make this "public static attributes_check_16GB" field final(Î¤Åà
+M
+java:S1444"7Make this "public static displayedElements" field final(ì—Ï·
+G
+java:S1444	",Make this "public static tittle" field final(®â•úûÿÿÿÿ
+C
+java:S1444
+"-Make this "public static display" field final(÷Å¨‡
+H
+java:S1444"2Make this "public static wishListBtn2" field final(äÒ±¢
+H
+java:S1444"2Make this "public static wishListBtn3" field final(öƒ×Í
+N
+java:S1444"3Make this "public static addToCartBtn4" field final(ØşÅ—ÿÿÿÿÿ
+N
+java:S1444"3Make this "public static addToCartBtn5" field final(Úôúóøÿÿÿÿ
+I
+java:S1444"3Make this "public static addToCartBtn6" field final(õ®¼•
+O
+java:S1444"4Make this "public static addToCartBtnss" field final(ÉÌïĞÿÿÿÿÿ
+I
+java:S1444"3Make this "public static wishListBtnss" field final(õİú¤
+C
+java:S1444"-Make this "public static content" field final(’ş…Ê
+E
+java:S1444"/Make this "public static cartLable" field final(’«»û
+N
+java:S1444"3Make this "public static wishListLable" field final(·ñÄüÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(×¨à‘øÿÿÿÿ

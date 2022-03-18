@@ -1,0 +1,59 @@
+
+t
+java:S3008"YRename this field "MyAccPageLabel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•“¤¤ùÿÿÿÿ
+p
+java:S3008
+"URename this field "GenderMale" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Éñ¼áûÿÿÿÿ
+O
+java:S1118":Add a private constructor to hide the implicit public one.(……°\
+u
+java:S1104"ZMake MyAccPageLabel a static final constant or non-public and provide accessors if needed.(•“¤¤ùÿÿÿÿ
+r
+java:S1104"WMake myAccButton a static final constant or non-public and provide accessors if needed.(ƒ‹µŒÿÿÿÿÿ
+u
+java:S1104	"ZMake registerButton a static final constant or non-public and provide accessors if needed.(ßÌÁñüÿÿÿÿ
+q
+java:S1104
+"VMake GenderMale a static final constant or non-public and provide accessors if needed.(Éñ¼áûÿÿÿÿ
+k
+java:S1104"PMake name a static final constant or non-public and provide accessors if needed.(ì¾Ÿøÿÿÿÿ
+n
+java:S1104"SMake surname a static final constant or non-public and provide accessors if needed.(³ğÈêùÿÿÿÿ
+q
+java:S1104"VMake dayOfBirth a static final constant or non-public and provide accessors if needed.(º¸ò¶ÿÿÿÿÿ
+s
+java:S1104"XMake monthOfBirth a static final constant or non-public and provide accessors if needed.(ßÇ¦øÿÿÿÿ
+m
+java:S1104"WMake yearOfBirth a static final constant or non-public and provide accessors if needed.(Á¥Î·
+k
+java:S1104"PMake mail a static final constant or non-public and provide accessors if needed.(ÇåÆµşÿÿÿÿ
+n
+java:S1104"SMake details a static final constant or non-public and provide accessors if needed.(Ÿ¥ÚĞûÿÿÿÿ
+n
+java:S1104"XMake logoutButton a static final constant or non-public and provide accessors if needed.(®ßŠ
+O
+java:S1444"4Make this "public static MyAccPageLabel" field final(•“¤¤ùÿÿÿÿ
+L
+java:S1444"1Make this "public static myAccButton" field final(ƒ‹µŒÿÿÿÿÿ
+O
+java:S1444	"4Make this "public static registerButton" field final(ßÌÁñüÿÿÿÿ
+K
+java:S1444
+"0Make this "public static GenderMale" field final(Éñ¼áûÿÿÿÿ
+E
+java:S1444"*Make this "public static name" field final(ì¾Ÿøÿÿÿÿ
+H
+java:S1444"-Make this "public static surname" field final(³ğÈêùÿÿÿÿ
+K
+java:S1444"0Make this "public static dayOfBirth" field final(º¸ò¶ÿÿÿÿÿ
+M
+java:S1444"2Make this "public static monthOfBirth" field final(ßÇ¦øÿÿÿÿ
+G
+java:S1444"1Make this "public static yearOfBirth" field final(Á¥Î·
+E
+java:S1444"*Make this "public static mail" field final(ÇåÆµşÿÿÿÿ
+H
+java:S1444"-Make this "public static details" field final(Ÿ¥ÚĞûÿÿÿÿ
+H
+java:S1444"2Make this "public static logoutButton" field final(®ßŠ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(×¨à‘øÿÿÿÿ
